@@ -10,6 +10,7 @@
     <script src='main.js'></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
 
+    <script src="https://kit.fontawesome.com/142c0af1ff.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -72,8 +73,8 @@
                         <td>Otto</td>
                         <td>@mdo</td>
                         <td>
-                            <a href="">Editar</a>
-                            <a href="">Eliminar</a>
+                            <a href="" class="btn btn-small btn-warning"><i class="fa-solid fa-pen-to-square"></i></a>
+                            <a href=""class="btn btn-small btn-danger"><i class="fa-solid fa-trash"></i></a>
 
                         </td>
                     </tr>
